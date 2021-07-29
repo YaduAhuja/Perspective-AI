@@ -6,7 +6,6 @@ The ML Model uses Reinforcement Learning to generate the Text Strings Effectivel
 * This Model can improve the BruteForce cracking by 40%.
 * Not a Single Line of SQL Statements is coded in Model Everything is learned by model itself.
 
-
 ## Setup
 * Go into directory on Vulnerable Server and add all the Node Modules by using `npm install` in Terminal.
 * Setup the DB server according to your needs in `server.js`.
