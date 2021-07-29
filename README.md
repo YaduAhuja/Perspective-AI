@@ -4,7 +4,7 @@ The ML Model uses Reinforcement Learning to generate the Text Strings Effectivel
 
 ## Observations
 * This Model can improve the BruteForce cracking by 40%.
-* Not a Single Line of SQL Statements is coded in Model Everything it learns itself.
+* Not a Single Line of SQL Statements is coded in Model Everything is learned by model itself.
 
 
 ## Setup
